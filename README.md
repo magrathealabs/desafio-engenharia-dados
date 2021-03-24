@@ -21,10 +21,10 @@ Alguns pontos que achamos relevante:
   - Representatividade em valor de importação por estado no ano de 2019 em relação ao total importado pelo país no mesmo ano.
 
 Links importantes:
-- [Informações sobre layout de dados](http://www.mdic.gov.br/index.php/comercio-exterior/estatisticas-de-comercio-exterior/base-de-dados-do-comercio-exterior-brasileiro-arquivos-para-download
+- [Informações sobre layout de dados](https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta
 )
-- [Dados de Exportações](http://www.mdic.gov.br/balanca/bd/comexstat-bd/ncm/EXP_COMPLETA.zip)
-- [Dados de Importações](http://www.mdic.gov.br/balanca/bd/comexstat-bd/ncm/IMP_COMPLETA.zip)
+- [Dados de Exportações](https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/EXP_COMPLETA.zip)
+- [Dados de Importações](https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_COMPLETA.zip)
 
 Você pode utilizar a linguagem e bibliotecas de programação de sua preferência.
 
